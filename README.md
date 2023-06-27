@@ -1,12 +1,15 @@
 # chatgpt-api-key-free
 我的chatgpt-api-key免费分享
 
-## 哎，之前囤了 30 多个账号打算开发用，结果忘到后脑勺了。。
+## 介绍
+哎，之前囤了 30 多个账号打算开发用，结果忘到后脑勺了。。
+30 多个 5 美岛的 API KEY， 7 月 1 号过期，今天一看马上到日子了，太可惜了。。 所以我想直接送给有缘人吧。。反正最后这几天了，让这些账号再有些利用价值吧！
 
-## 30 多个 5 美岛的 API KEY， 7 月 1 号过期，今天一看马上到日子了，太可惜了。。 所以我想直接送给有缘人吧。。反正最后这几天了，让这些账号再有些利用价值吧！
+## 自取之前。。
+如果这些 API KEY 帮到了你，点个star🌟哈，让更多人看到，感谢🙏
+因为之前我在知乎也发过，所以现在用的人有点多哈哈，为了大家都能用上，后半部分我暂时隐藏了哈，避免刷的太快别人用不上，想要后半部分的朋友，可以扫：
 
-## （如果这些 API KEY 帮到了你，点个star哈）
-
+<img src="https://img1.imgtp.com/2023/06/27/mj7qG7Gg.jpg" alt="图片描述" width="400" height="400">
 
 自取：
 ```
@@ -42,7 +45,3 @@ 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
 
 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
 ```
-
-# 因为之前我在知乎也发过，所以现在用的人有点多哈哈，为了大家都能用上，后半部分我暂时隐藏了哈，避免刷的太快别人用不上，想要后半部分的朋友，可以扫：
-
-![11481687861879_ pic](https://github.com/zhouyangtingwen/chatgpt-api-key-free/assets/130919942/da4c449a-001a-404c-9215-43c8ec0ff3b1)
